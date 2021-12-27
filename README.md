@@ -10,6 +10,7 @@ We have provided Louise with an anaylysis of other plays within the theater Cate
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+/Outcomes_vs_Goals.png
 
 ### Analysis of Outcomes Based on Goals
 
