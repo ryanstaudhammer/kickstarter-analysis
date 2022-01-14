@@ -10,11 +10,11 @@ We have provided Louise with an anaylysis of other plays within the theater Cate
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![](https://github.com/ryanstaudhammer/kickstarter-analysis/Resources/Outcomes_vs_Goals.png)
+![](https://github.com/ryanstaudhammer/kickstarter-analysis/blob/main/Resourses/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
-/Outcomes_vs_Goals.png
+![](https://github.com/ryanstaudhammer/kickstarter-analysis/blob/main/Resourses/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
