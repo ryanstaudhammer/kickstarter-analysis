@@ -21,8 +21,8 @@ We have provided Louise with an anaylysis of other plays within the theater Cate
 ## Results
 
 - We can draw two conclusions about the Outcomes based on Launch Date. First the data appears to support that outcomes had a higher success rate when the productions were initiated in early summer, or more specifically in May. Though we can also see that a failure rate is higher in May as well which is likely a result simply of more productions being launched in May. Second, we can see that the highest failure rate is in October, so that may be a time to avoid launching a new production. 
-- We can conclude the Outcomes based on Goals
+- We can conclude the Outcomes based on Goals that the highest success rates occured at both the lowest target goal and the second to highest target goal. So it appears that outcomes based on goals is not a huge determining factor as to whether or not a production will be successful.  
 
-- What are some limitations of this dataset?
+- What are some limitations of this dataset? One of the limitations of this data set is the information only goes back to 1970. Perhaps more useful infomation exists prior to 1970. 
 
-- What are some other possible tables and/or graphs that we could create?
+- What are some other possible tables and/or graphs that we could create? We could indlude data from all countries available to more accurately represent what is happening on a global scale. 
